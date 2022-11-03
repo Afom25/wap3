@@ -1,0 +1,43 @@
+.head-tex {
+    background-color: blue;
+    color: whitesmoke;
+    padding: 50px;
+}
+
+nav {
+    background-color: rgb(241, 243, 243);
+}
+
+nav.a {
+    text-decoration: dotted;
+}
+
+nav.link {
+    display: inline;
+}
+
+.link {
+    text-decoration: none;
+    margin: 50px;
+    padding: 50px;
+}
+
+#login-text {}
+
+h1 {
+    text-align: center;
+    color: whitesmoke;
+    background-color: rgb(53, 53, 110);
+    padding: 5%;
+
+
+}
+
+h6 {
+    color: rgb(198, 180, 180);
+}
+
+.btn-outline-dark {
+    color: rgb(236, 202, 202);
+    background-color: black;
+}
